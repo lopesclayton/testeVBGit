@@ -25,6 +25,10 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
 Dim casa As String
+<<<<<<< HEAD
 Dim po As String
 
+=======
+dim maria as string
+>>>>>>> c2ca5d6e3a99ac85cc20dc816d3509e08b4213da
 End Sub
